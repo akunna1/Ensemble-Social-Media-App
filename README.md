@@ -1,2 +1,2 @@
-# Ensemble-Social-Media-App
-Remake of Nduka Social Media App, but better...
+# Used sites:
+https://jsonplaceholder.typicode.com/ --> used to make fake API calls
